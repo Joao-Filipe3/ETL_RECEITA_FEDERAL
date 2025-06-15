@@ -67,5 +67,6 @@ dados_receita/
 - estabelecimentos.csv
 - socios.csv
 - cnaes.csv
+  
 ETL_Receita.ipynb
 README.md
