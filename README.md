@@ -63,9 +63,9 @@ The transformed DataFrames were converted to `Pandas` for exploratory analysis a
 
 ## Project Structure
 dados_receita/
-├── empresas.csv
-├── estabelecimentos.csv
-├── socios.csv
-├── cnaes.csv
+- empresas.csv
+- estabelecimentos.csv
+- socios.csv
+- cnaes.csv
 ETL_Receita.ipynb
 README.md
